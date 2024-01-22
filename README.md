@@ -1,5 +1,5 @@
 # Random Excuse Generator
-*This app is made when I was learning React*
+*This app was made when I was learning React*
 
 This React app showcases fetching data from an API and employs the **useState** and **useEffect** hooks along with **Axios**. The useState hook manages state variables, while the **useEffect** hook is utilized to reset the **excuseDate** state to **null**. The empty dependency array ([]) ensures that this effect executes only once after the initial render.
 
